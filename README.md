@@ -28,9 +28,6 @@ Abaixo estão algumas das principais tecnologias com as quais eu trabalho:
 <img src="https://raw.githubusercontent.com/SamuelDinizTenorio/SamuelDinizTenorio/output/github-snake.svg" alt="github-snake">
 </div>
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelDinizTenorio&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDinizTenorio&layout=compact&theme=onedark&hide_border=true)
-
 ---
 
 ### ✨ Projetos em Destaque
