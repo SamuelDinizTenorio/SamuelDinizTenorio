@@ -2,8 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/samuel-diniz-ten%C3%B3rio-923533298/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/SamuelDinizTenorio)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@example.com)](samueldinizcti@gmail.com
-)
 
 Sou um(a) desenvolvedor(a) de software com foco em **Backend Java**. Tenho paixão por construir APIs robustas e eficientes, usando as melhores práticas de desenvolvimento para criar soluções escaláveis e seguras.
 
