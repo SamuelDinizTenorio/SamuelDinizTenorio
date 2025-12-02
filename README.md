@@ -23,7 +23,6 @@ Abaixo estão algumas das principais tecnologias com as quais eu trabalho:
 
 ### 📈 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDinizTenorio&show_icons=true)
 ![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelDinizTenorio&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDinizTenorio&layout=compact&theme=onedark&hide_border=true)
 
