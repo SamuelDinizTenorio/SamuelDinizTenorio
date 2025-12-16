@@ -16,7 +16,7 @@ Abaixo estão algumas das principais tecnologias com as quais eu trabalho:
 | **Frameworks** | `Spring Boot` `Spring Security` `Spring Data JPA` |
 | **Banco de Dados** | `PostgreSQL` `MySQL` |
 | **Ferramentas e Serviços**| `Maven` `Git` `Docker` `JUnit` `Mockito` |
-| **Metodologias** | `Design Patterns` `RESTful APIs` `TDD` |
+| **Metodologias** | `Design Patterns` `RESTful APIs` `TDD` `SOLID` |
 
 ---
 
