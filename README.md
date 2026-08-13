@@ -1,33 +1,34 @@
-### Oi, sou Samuel Diniz Tenório 👋
+# Samuel Diniz Tenório
+### Desenvolvedor Backend Java | AWS Certified Cloud Practitioner
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/samuel-diniz-ten%C3%B3rio-923533298/)
+Graduado em Análise e Desenvolvimento de Sistemas e certificado em AWS Cloud Practitioner. 
+Focado no ecossistema Java (Spring Boot, Arquitetura Hexagonal, Microserviços, Docker e Nuvem AWS).
 
-Sou um(a) desenvolvedor(a) de software com foco em **Backend Java**. Tenho paixão por construir APIs robustas e eficientes, usando as melhores práticas de desenvolvimento para criar soluções escaláveis e seguras.
+## 🏆 Certificações
 
----
+- **AWS Certified Cloud Practitioner** — Amazon Web Services 
+  - 📜 *Validation Number:* `f1a77a1d32c44ce7bba6bd5086b0495a`
+  - 🔗 [Verificar Credencial no Credly/AWS](https://www.credly.com/badges/582fe882-bac4-41dc-81c2-5cee67447f70/linked_in_profile)
 
-### 💻 Minhas Habilidades Técnicas
+  ### 🛠️ Tech Stack & Ferramentas
 
-Abaixo estão algumas das principais tecnologias com as quais eu trabalho:
+**Linguagens:**
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Java` `CSS` `HTML` `JavaScript` |
-| **Frameworks** | `Spring Boot` `Spring Security` `Spring Data JPA` |
-| **Banco de Dados** | `PostgreSQL` `MySQL` |
-| **Ferramentas e Serviços**| `Maven` `Git` `Docker` `JUnit` `Mockito` |
-| **Metodologias** | `Design Patterns` `RESTful APIs` `TDD` `SOLID` |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Backend, Nuvem & Infraestrutura:**
 
-### 📈 Estatísticas do GitHub
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDinizTenorio&layout=compact&theme=onedark&hide_border=true)
+**Bancos de Dados & Ferramentas:**
 
----
-
-### ✨ Projetos em Destaque
-
-Confira alguns dos meus projetos fixados abaixo para ver mais do meu trabalho.
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
