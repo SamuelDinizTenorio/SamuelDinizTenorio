@@ -2,7 +2,7 @@
 ### Desenvolvedor Backend Java | AWS Certified Cloud Practitioner
 
 Graduado em Análise e Desenvolvimento de Sistemas e certificado em AWS Cloud Practitioner. 
-Focado no ecossistema Java (Spring Boot, Arquitetura Hexagonal, Microserviços, Docker e Nuvem AWS).
+Focado no ecossistema Java (Spring Boot, Arquitetura Hexagonal, Microsserviços, Docker e Nuvem AWS).
 
 ## 🏆 Certificações
 
@@ -10,7 +10,9 @@ Focado no ecossistema Java (Spring Boot, Arquitetura Hexagonal, Microserviços, 
   - 📜 *Validation Number:* `f1a77a1d32c44ce7bba6bd5086b0495a`
   - 🔗 [Verificar Credencial no Credly/AWS](https://www.credly.com/badges/582fe882-bac4-41dc-81c2-5cee67447f70/linked_in_profile)
 
-  ### 🛠️ Tech Stack & Ferramentas
+---
+
+### 🛠️ Tech Stack & Ferramentas
 
 **Linguagens:**
 
